@@ -1,3 +1,4 @@
+//funmode.js
 (function() {
     var button = document.createElement('button');
     button.style.position = 'fixed';
